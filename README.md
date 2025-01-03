@@ -9,9 +9,3 @@ This project consists of 2 kinds of part: `ROI` extraction and plam feature matc
 
 I have palmprint and palmvein model(available in python & C++) pre-built and ready to customize or improve things according to the requirements.</br>
 
-- To request a license, please contact me:</br>
-  `Email:` jackiewang13571@gmail.com</br>
-  `Telegram:` [Click here](https://t.me/AIdevstar)</br>
-  `WhatsApp:` [Click here](https://wa.me/+15095539271)</br>
-  `Skype:` [Click here](https://join.skype.com/invite/epLIkMFiFRvQ)</br>
-  `Portfolio:` [Click here](https://jackiewang13571.wixsite.com/jackie-wang)</br>
